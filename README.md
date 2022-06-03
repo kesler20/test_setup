@@ -7,6 +7,11 @@ just a base template repo which can be used to start python projects
 4. install dependencies ``conda install pandas``
 5. make the dependencies explicit `pip freeze > requriements.txt``
 
+To move files into the root folder after cloning this repository
+
+``xcopy * ../``
+
+then click D o the question they ask.
 
 ## For a Linux computer
 
