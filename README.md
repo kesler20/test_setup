@@ -1,4 +1,10 @@
 # Project Setup
+in order to install things in python as a user administrator add --user at the end of the install statemnet 
+for instance
+ - `pip install -r requirements.txt --user`
+ - `pip install flask --user`
+ - `python -m pip install --user --upgrade pip`
+
 just a base template repo which can be used to start python projects
 
 1. create new repository ``mkdir directory``
